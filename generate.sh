@@ -21,4 +21,5 @@ Terminal=false
 Type=Application
 Categories=Application;
 EOF
+chmod +x "$HOME/Desktop/$name.desktop"
 echo "Done!"
